@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:  [https://github.com/yashgjoshi20/Product.git]
-- Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Product/)
+- Solution URL:  [https://github.com/yashgjoshi20/Result-Summary-Component.git]
+- Live Site URL: [https://yashgjoshi20.github.io/Product/)
 
 ## My process
 
